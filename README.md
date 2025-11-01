@@ -1,13 +1,18 @@
 Overview:
+
     The main aim of this project is to develop a *Laptop Request Catalog Item* using the *ServiceNow platform*. This catalog item enables employees or users to easily request new laptops through a structured and automated service catalog process.
     The project focuses on creating a user-friendly catalog form with variables, UI policies, and UI actions to enhance the request experience. It automates visibility rules and form reset actions, ensuring smooth interaction and efficient handling of hardware requests.
     By leveraging ServiceNow’s catalog management and update set features, this project ensures *easy deployment, **consistency across instances, and **better management of IT assets*, ultimately streamlining the laptop request and approval workflow within an organization.
 
 Source Video File:
 
+
 Implementation Steps:
+
 Step 1: Setting up ServiceNow Instance
+
 Open ServiceNow and create a Local Update Set named “Laptop Request” and make it current.
+
 Step 2: Creating a New Update Set
 Go to Service Catalog → Maintain Items, create a new catalog item named Laptop Request, and save it.
 Step 3: Creating Service Catalog Item
