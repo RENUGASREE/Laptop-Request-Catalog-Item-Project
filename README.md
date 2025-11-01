@@ -80,16 +80,21 @@ Screenshots:
 Project Demo Link:
 
 Conclusion:
+
 The ServiceNow Laptop Request Catalog successfully created a robust, automated solution for hardware provisioning. By leveraging the Service Catalog and the platform's native automation features, we provided a centralized, efficient, and transparent process. This project demonstrates the platform's power to quickly modernize and streamline core business services, setting a new benchmark for efficient ITSM and ITAM compliance.
     
 Acknowledgement:
+
 This project was completed under the Muthalvan Program as part of academic learning at Grace College of Engineering, Thoothukudi. Special thanks to mentors and the ServiceNow Developer Community for guidance and support.
 
 Author:
+
 Our Team Memberes: 
 RUBY ESTHER Y ,
 RENUGA SREE S ,
 NARMATHA SRI S ,
 SWARNA T.
+
 Department: Artificial Intelligence and Data Science(AI-DS).
+
 College: Grace College of Engineering, Thoothukudi.           
