@@ -1,8 +1,8 @@
 Overview:
     
-The main aim of this project is to develop a *Laptop Request Catalog Item* using the *ServiceNow platform*. This catalog item enables employees or users to easily request new laptops through a structured and automated service catalog process.
+The main aim of this project is to develop a Laptop Request Catalog Item using the ServiceNow platform. This catalog item enables employees or users to easily request new laptops through a structured and automated service catalog process.
 The project focuses on creating a user-friendly catalog form with variables, UI policies, and UI actions to enhance the request experience. It automates visibility rules and form reset actions, ensuring smooth interaction and efficient handling of hardware requests.
-By leveraging ServiceNow’s catalog management and update set features, this project ensures *easy deployment, **consistency across instances, and **better management of IT assets*, ultimately streamlining the laptop request and approval workflow within an organization.
+By leveraging ServiceNow’s catalog management and update set features, this project ensures easy deployment, consistency across instances, and better management of IT assets, ultimately streamlining the laptop request and approval workflow within an organization.
 
 Source Video File:https://drive.google.com/file/d/1JoVO_MocnvN2fs49uNIaHIjOfMOi_d7F/view?usp=sharing
 
