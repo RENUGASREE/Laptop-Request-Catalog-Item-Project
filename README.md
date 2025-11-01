@@ -4,8 +4,7 @@ The main aim of this project is to develop a *Laptop Request Catalog Item* using
 The project focuses on creating a user-friendly catalog form with variables, UI policies, and UI actions to enhance the request experience. It automates visibility rules and form reset actions, ensuring smooth interaction and efficient handling of hardware requests.
 By leveraging ServiceNow’s catalog management and update set features, this project ensures *easy deployment, **consistency across instances, and **better management of IT assets*, ultimately streamlining the laptop request and approval workflow within an organization.
 
-Source Video File:
-
+Source Video File:https://drive.google.com/file/d/1JoVO_MocnvN2fs49uNIaHIjOfMOi_d7F/view?usp=sharing
 
 Implementation Steps:
 
@@ -77,7 +76,7 @@ Screenshots:
 ![IMG-20251101-WA0013](https://github.com/user-attachments/assets/a97c8503-84c0-453d-8b69-26dbd3b2b0d5)
 
 
-Project Demo Link:
+Project Demo Link:https://drive.google.com/file/d/11CzDL3WKVrW1La6dqCdsmADXQItAK_3y/view?usp=sharing
 
 Conclusion:
 
