@@ -86,9 +86,10 @@ Acknowledgement:
 This project was completed under the Muthalvan Program as part of academic learning at Grace College of Engineering, Thoothukudi. Special thanks to mentors and the ServiceNow Developer Community for guidance and support.
 
 Author:
-Our Team Memberes: RUBY ESTHER Y ,
-                   RENUGA SREE S ,
-                   NARMATHA SRI S ,
-                   SWARNA T.
+Our Team Memberes: 
+RUBY ESTHER Y ,
+RENUGA SREE S ,
+NARMATHA SRI S ,
+SWARNA T.
 Department: Artificial Intelligence and Data Science(AI-DS).
 College: Grace College of Engineering, Thoothukudi.           
